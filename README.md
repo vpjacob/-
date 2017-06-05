@@ -1,4 +1,4 @@
-# -
+# 二维码生成图片
 ![](file:////Users/vpjacob/Desktop/Demo/生成二维码图片/Snip20170605_3.png) 
 
 
